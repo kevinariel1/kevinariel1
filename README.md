@@ -15,7 +15,7 @@ I'm currently building my foundation with these technologies:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🏗️ Current Project
-* **[Financial Tracker App](https://github.com/kevinariel1/financial-tracker):** My main project where I'm practicing full-stack development and data management.
+* **[Bakery App](https://github.com/kevinariel1/bakery-mern.git):** Revamping one of my old projects.
 
 ### ⚡ Fun Facts
 * I love cats and dogs.
