@@ -23,5 +23,4 @@ I'm currently building my foundation with these technologies:
 * Love reading Seinen manga
 * Sometimes I code for my girlfriend, lol
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={kevinariel1}" alt="LeetCode Badges" />
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={kevinariel1})
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=kevinariel1&animated=true)
