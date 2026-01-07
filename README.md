@@ -22,3 +22,5 @@ I'm currently building my foundation with these technologies:
 * Tea over coffee guy
 * Love reading Seinen manga
 * Sometimes I code for my girlfriend, lol
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={kevinariel1})
