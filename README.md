@@ -4,7 +4,7 @@ I'm Kevin,
 
 I’m a passionate programmer currently focused on building and learning. While I’m early in my journey, I’ve fallen in love with the process of solving problems through code. I spend my time exploring new technologies and turning ideas into functional apps.
 
-### 🖥️ My Tech Stack
+### My Tech Stack
 I'm currently building my foundation with these technologies:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -14,10 +14,10 @@ I'm currently building my foundation with these technologies:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🏗️ Current Project
+### Current Project
 * **[Bakery App](https://github.com/kevinariel1/bakery-mern.git):** Revamping one of my old projects.
 
-### ⚡ Fun Facts
+### Fun Facts
 * I love cats and dogs.
 * Tea over coffee guy
 * Love reading Seinen manga
