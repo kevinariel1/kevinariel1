@@ -15,7 +15,7 @@ I'm currently building my foundation with these technologies:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Current Project
-* **[Bakery App](https://github.com/kevinariel1/bakery-mern.git):** Revamping one of my old projects.
+* **[ILovePDF Clone](https://github.com/kevinariel1/I-don-t-like-ILovePDF.git):** Just feel like it.
 
 ### Fun Facts
 * I love cats and dogs.
