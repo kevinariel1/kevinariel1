@@ -13,6 +13,7 @@ I'm currently building my foundation with these technologies:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 Well, I like using 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +22,7 @@ and
 too sometimes. 
 
 ### Current Project
-* **[ILovePDF Clone](https://github.com/kevinariel1/I-don-t-like-ILovePDF.git):** Just feel like it.
+* **[Bakery Shop](https://github.com/kevinariel1/bakery-erp.git):** ERP Project.
 
 ### Fun Facts
 * I love cats and dogs.
