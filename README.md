@@ -28,6 +28,5 @@ too sometimes.
 * I love cats and dogs.
 * Tea over coffee guy
 * Love reading Seinen manga
-* Sometimes I code for my girlfriend, lol
 
 
