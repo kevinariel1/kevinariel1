@@ -22,7 +22,7 @@ and
 too sometimes. 
 
 ### Current Project
-* **[Bakery Shop](https://github.com/kevinariel1/bakery-erp.git)  :** ERP Project.
+* **[Financial Tracker App](https://github.com/kevinariel1/financial-tracker.git)  :** Planning to revamp the UI and add an OCR to scan receipts (camera/storage).
 
 ### Fun Facts
 * I love cats and dogs.
