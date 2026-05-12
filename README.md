@@ -5,8 +5,8 @@ I'm Kevin,
 I’m a passionate programmer currently focused on building and learning. While I’m early in my journey, I’ve fallen in love with the process of solving problems through code. I spend my time exploring new technologies and turning ideas into functional apps.
 
 ### HackerRank Stats:
-<a href="https://www.hackerrank.com/kevinariel_yap1">
-  <img src="https://hackerrank-badges.vercel.app/api/hackerrank/kevinariel_yap1" alt="HackerRank Stats" />
+<a href="https://www.hackerrank.com/profile/kevinariel_yap1">
+  <img src="https://img.shields.io/badge/HackerRank-Python_2_Stars-2EC866?style=for-the-badge&logo=python&logoColor=white" alt="HackerRank Python Badge"/>
 </a>
 
 ### My Tech Stack
