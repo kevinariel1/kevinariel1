@@ -9,9 +9,6 @@ I’m a passionate programmer currently focused on building and learning. While 
   <img src="https://img.shields.io/badge/HackerRank-Python_3_Stars-2EC866?style=for-the-badge&logo=python&logoColor=white" alt="HackerRank Python Badge"/>
 </a>
 <br/>
-<a href="https://www.hackerrank.com/profile/kevinariel_yap1">
-  <img src="https://img.shields.io/badge/HackerRank-SQL_1_Stars-2EC866?style=for-the-badge&logo=python&logoColor=white" alt="HackerRank Python Badge"/>
-</a>
 
 ### My Tech Stack
 I'm currently building my foundation with these technologies:
